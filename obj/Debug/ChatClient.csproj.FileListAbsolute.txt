@@ -1,0 +1,6 @@
+E:\Trening C#\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\Trening C#\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\Trening C#\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\Trening C#\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\Trening C#\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\Trening C#\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
